@@ -2,7 +2,7 @@
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
-## Welcome
+## Welcome to github
 
 GitHub is about more than code. It's a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you've completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
 
